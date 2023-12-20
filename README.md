@@ -42,8 +42,16 @@
 
 <br/>  
 
+## GitHub Stats  
 
-## Github Stats  
-<div align="center"><img src="![jarif098's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=tokyonight&hide_border=true)" align="center" /></div>  
+### Streak Stats
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=tokyonight&hide_border=true" alt="jarif098's Streak" align="center" /></div>  
 
-<br/>  
+### GitHub Stats Overview
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jarif098&show_icons=true&theme=tokyonight&hide_border=true" alt="jarif098's GitHub Stats" align="center" /></div>
+
+### Top Languages
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif098&layout=compact&theme=tokyonight&hide_border=true" alt="jarif098's Top Languages" align="center" /></div>
+
+<br/>
+
