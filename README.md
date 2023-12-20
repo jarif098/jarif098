@@ -51,7 +51,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jarif098&show_icons=true&theme=tokyonight&hide_border=true" alt="jarif098's GitHub Stats" align="center" /></div>
 
 ### Top Languages
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif098&layout=compact&theme=tokyonight&hide_border=true" alt="jarif098's Top Languages" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif098&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="jarif098's Top Languages" align="center" /></div>
 
 <br/>
 
