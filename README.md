@@ -44,6 +44,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntkhang2003&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="![jarif098's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=tokyonight&hide_border=true)" align="center" /></div>  
 
 <br/>  
