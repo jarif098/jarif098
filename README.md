@@ -31,10 +31,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.facebook.com/dev.jarifemma" target="_blank">
+<a href="https://www.facebook.com/jarif098" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/jarif_sixtnine" target="_blank">
+<a href="https://instagram.com/jarif_zeronine" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -48,10 +48,7 @@
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=tokyonight&hide_border=true" alt="jarif098's Streak" align="center" /></div>  
 
 ### GitHub Stats Overview
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jarif098&show_icons=true&theme=tokyonight&hide_border=true" alt="jarif098's GitHub Stats" align="center" /></div>
-
-### Top Languages
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif098&layout=compact&theme=tokyonight&hide_border=true" alt="jarif098's Top Languages" align="center" /></div>
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=jarif098&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=vue-dark&hide_border=true)" alt="jarif098's GitHub Stats" align="center" /></div>
 
 <br/>
 
