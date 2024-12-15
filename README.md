@@ -48,7 +48,7 @@
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=tokyonight&hide_border=true" alt="jarif098's Streak" align="center" /></div>  
 
 ### GitHub Stats Overview
-<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=jarif098&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=vue-dark&hide_border=true)" alt="jarif098's GitHub Stats" align="center" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=vue-dark&hide_border=true" alt="jarif098's GitHub Stats" align="center" /></div>
 
 <br/>
 
