@@ -44,9 +44,6 @@
 
 ## GitHub Stats  
 
-### Streak Stats
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=tokyonight&hide_border=true" alt="jarif098's Streak" align="center" /></div>  
-
 ### GitHub Stats Overview
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=vue-dark&hide_border=true" alt="jarif098's GitHub Stats" align="center" /></div>
 
