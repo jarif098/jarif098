@@ -5,13 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Make+It+Right" alt="Typing SVG" /></a>
 ### <div align="center">I'm Fatin Rahman Jarif</div>  
   
-
-- 🔭 I’m currently working on [Vyturex](https://api.vyturex.com)  
-  
-
-- 🌱 Nodejs Programmer  
-  
-
 <br/>  
 
 
